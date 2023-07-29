@@ -1,5 +1,16 @@
 # React + Vite
 
+This app in online in the link below
+https://math-and-aws.vercel.app/
+
+The following AWS services were used to carry out the project:
+LAMBDA
+API GATEWAY
+DYNAMO DB
+IAM
+
+thanks for checking!
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
