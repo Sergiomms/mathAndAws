@@ -1,6 +1,6 @@
 # React + Vite
 
-This app in online in the link below
+This app is online in the link below
 https://math-and-aws.vercel.app/
 
 The following AWS services were used to carry out the project:
